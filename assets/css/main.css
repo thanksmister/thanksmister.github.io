@@ -79,7 +79,7 @@ a:after {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
- hr {
+hr {
     display: block;
     height: 1px;
     border: 0;
@@ -122,13 +122,12 @@ i {
 
 /* HeaderWrap */
 #headerwrap {
-	/* background: url(../img/bg01.jpg) no-repeat center top; */
     background: url('../img/intro.jpg') no-repeat center center;
 	background-color: #3498db;
 	margin-top: -20px;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 580px;
 	width: 100%;
 
     -webkit-background-size: 100%;
@@ -170,8 +169,8 @@ i {
 .header-overlay {
     background: rgba(52, 152, 219, 0.35);
     margin-top: 0;
-    padding-top:250px;
-    min-height: 650px;
+    padding-top:200px;
+    min-height: 580px;
     width: 100%;
 }
 
