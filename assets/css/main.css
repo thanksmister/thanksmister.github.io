@@ -180,7 +180,7 @@ i {
         margin-top: -20px;
         background-attachment: relative;
         background-position: center center;
-        min-height: 4800px;
+        min-height: 650px;
         width: 100%;
 
         -webkit-background-size: cover;
@@ -192,8 +192,7 @@ i {
     .header-overlay {
         background: rgba(52, 152, 219, 0.35);
         margin-top: 0;
-        padding-top:180px;
-        min-height: 4800px;
+        min-height: 650px;
         width: 100%;
     }
 }
