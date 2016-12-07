@@ -170,11 +170,11 @@ i {
     width: 100%;
 }
 
-/* Android and iOS phones */
+/*!* Android and iOS phones *!
 @media only screen and (max-device-width: 480px)  {
 
     #headerwrap {
-        /* background: url(../img/bg01.jpg) no-repeat center top; */
+        !* background: url(../img/bg01.jpg) no-repeat center top; *!
         background: url('../img/intro.jpg') no-repeat center center;
         background-color: #3498db;
         margin-top: -20px;
@@ -195,7 +195,7 @@ i {
         min-height: 650px;
         width: 100%;
     }
-}
+}*/
 
 .promo {
     background: rgba(255,255,255,0.0);
